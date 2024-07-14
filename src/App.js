@@ -1,17 +1,13 @@
-// src/App.js
-
-import React, { useState } from 'react';
-import { Container, CssBaseline } from '@mui/material';
-import Navbar from './components/Navbar';
-
+import React from "react";
+import Navbar from "./components/Navbar";
+import AllRouter from "./routes/AllRouter";
 
 function App() {
-  const [filter, setFilter] = useState('All');
-
   return (
-    <Container maxWidth="lg">
-     <Navbar />
-    </Container>
+    <div>
+      <Navbar />
+      <AllRouter />
+    </div>
   );
 }
 
