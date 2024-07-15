@@ -21,7 +21,7 @@ This project was monitoring the network tab of devtool and help to debug the err
 ## Local run the code 
 
 ### clone the repository
-`git clone `
+`git clone https://github.com/khelsai01/network-moniter.git`
 
 ### `npm start`
 
