@@ -1,10 +1,27 @@
-# Getting Started with Create React App
+# Network monitor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+This project was monitoring the network tab of devtool and help to debug the error.
 
-In the project directory, you can run:
+## Deployed line
+
+[https://network-moniter.vercel.app](https://network-moniter.vercel.app)
+
+
+## Demo video of application
+
+[![Watch the video](https://github.com/user-attachments/assets/9ef8e271-ea5e-4934-832e-43bb76817164)](https://drive.google.com/file/d/1Sb2XJbUPR9yJIaae7xaPf9PtpaQcQ9Vo/view?usp=sharing)
+
+
+## Image of network monitor
+
+![network](https://github.com/user-attachments/assets/9ef8e271-ea5e-4934-832e-43bb76817164)
+
+
+## Local run the code 
+
+### clone the repository
+`git clone `
 
 ### `npm start`
 
@@ -39,29 +56,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
